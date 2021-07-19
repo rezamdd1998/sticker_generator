@@ -1,7 +1,7 @@
 # sticker_generator
 
 If you want to create your sticker pack on [telegram](telegram.me), you can use [stickers bot](https://telegram.me/stickers) easily.
-this bot allows you to create sticker packs containing of up to **120 stickers**.
+this bot allows you to create sticker packs containing of **up to 120 stickers**.
 this bot accepts images with some constraints (like extension, size).
 this code converts your images to acceptable images for the bot.
 
